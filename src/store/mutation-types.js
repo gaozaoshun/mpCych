@@ -1,0 +1,1 @@
+export const SET_PRODTYPE_LIST = 'SET_PRODTYPE_LIST'
